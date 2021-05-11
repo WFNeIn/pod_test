@@ -1,0 +1,6 @@
+framework module wfpodtest {
+  umbrella header "wfpodtest-umbrella.h"
+
+  export *
+  module * { export * }
+}
