@@ -1,0 +1,22 @@
+{
+  "name": "wfpodtest",
+  "version": "0.1.0",
+  "summary": "A short description of wfpodtest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/841673885@qq.com/wfpodtest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "841673885@qq.com": "841673885@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/841673885@qq.com/wfpodtest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "wfpodtest/Classes/**/*"
+}
