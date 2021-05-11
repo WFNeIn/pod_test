@@ -36,6 +36,7 @@
 		841A0356264AC16000690752 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841A0352264AC16000690752 /* ReplaceMe.swift */; };
 		841A0357264AC16000690752 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 841A0354264AC16000690752 /* .gitkeep */; };
 		841A036A264AC17700690752 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 841A0369264AC17700690752 /* Media.xcassets */; };
+		841A0371264AC49B00690752 /* Teacher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841A0370264AC49B00690752 /* Teacher.swift */; };
 		8CE480485EFF2F15B7A394C90CFF274A /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C617FE811A91EA69182671BD494E324 /* AFHTTPSessionManager.m */; };
 		8D060BB549FA8C46C8A5E230C7E00CFE /* AFURLResponseSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 26BEF3ED4DA9B8AAE20161D6B17D9800 /* AFURLResponseSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9489DE1897C6CFB9DADE95A05FB9E80B /* wfpodtest.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 6DF63940B85209F3117193A3ADD1D43F /* wfpodtest.bundle */; };
@@ -142,6 +143,7 @@
 		841A0352264AC16000690752 /* ReplaceMe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 		841A0354264AC16000690752 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		841A0369264AC17700690752 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		841A0370264AC49B00690752 /* Teacher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Teacher.swift; sourceTree = "<group>"; };
 		842F909230AAC675241531ECA8AEE4A5 /* AFSecurityPolicy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFSecurityPolicy.h; path = AFNetworking/AFSecurityPolicy.h; sourceTree = "<group>"; };
 		89E909443A20B13103B8D2B89E899297 /* AFNetworking-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "AFNetworking-Info.plist"; sourceTree = "<group>"; };
 		8B9E383A054E7E1C274AF007FD183F8D /* AFNetworking.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = AFNetworking.modulemap; sourceTree = "<group>"; };
@@ -334,6 +336,7 @@
 			isa = PBXGroup;
 			children = (
 				841A0342264AC06200690752 /* Person.swift */,
+				841A0370264AC49B00690752 /* Teacher.swift */,
 				841A0351264AC16000690752 /* .gitkeep */,
 				841A0352264AC16000690752 /* ReplaceMe.swift */,
 			);
@@ -709,6 +712,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				841A0371264AC49B00690752 /* Teacher.swift in Sources */,
 				841A0356264AC16000690752 /* ReplaceMe.swift in Sources */,
 				841A0343264AC06200690752 /* Person.swift in Sources */,
 				E12D6A18FC9ABA69A85800CF4310553D /* wfpodtest-dummy.m in Sources */,
